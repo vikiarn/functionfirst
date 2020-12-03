@@ -1,2 +1,2 @@
-# functionfirst
-This is my first function created on github
+# functioncreation
+Creation of my first function within class
